@@ -1,6 +1,6 @@
 # TinyOLEDdemo - I²C OLED on an ATtiny10, ATtiny13A or ATtiny202
 This is just a little demo on how to use an I²C OLED with the limited capabilities of an ATtiny10, ATtiny13A or ATtiny202.
-
+halyamBalyam
 - Project Video (Youtube): https://youtu.be/-VUbEFFfDFA
 
 ![pic1.jpg](https://raw.githubusercontent.com/wagiminator/ATtiny13-TinyOLEDdemo/main/documentation/TinyOLEDdemo_pic1.jpg)
